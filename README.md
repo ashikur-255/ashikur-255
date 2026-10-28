@@ -1,11 +1,11 @@
 <!-- Top SVG Header -->
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=WELCOME%20TO%20MY%20GITHUB&fontSize=50&fontColor=ffffff" width="100%" />
 
 <!-- Introduction Section -->
 <p align="center">
   <h1 style="color: #0078d7;">
     👋 Hello, This is <br>
-    MD. ASHIKUR RAHMAN!
+    MD. ASHIKUR RAHMAN !
   </h1>
 </p>
 
@@ -23,7 +23,7 @@
 
 ### 💡 About Me
 
-Hi, This is **Md. Ashikur Rahman**, a passionate Full Stack Web Developer. 
+Hi, I’m **Md. Ashikur Rahman**, a passionate Full Stack Web Developer. 
 
 I specialize in designing, developing, and maintaining responsive web applications using **ASP.NET Core MVC, Web API, C#, SQL Server, Angular, and React**. 
 With hands-on experience troubleshooting, optimizing, and building systems independently and collaboratively, I am committed to delivering high-quality, user-friendly, and scalable web solutions. 
@@ -46,9 +46,9 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
 
 ### ⛁ Database & Tools
 
-| SQL Server | GitHub | MongoDB |
+| SQL Server | MongoDB | GitHub |
 |:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40"> | <img src="https://skillicons.dev/icons?i=github" height="40"> | <img src="https://skillicons.dev/icons?i=mongodb" height="40"> |
+| <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40"> | <img src="https://skillicons.dev/icons?i=mongodb" height="40"> | <img src="https://skillicons.dev/icons?i=github" height="40"> |
 
 ### 📖 Currently Learning
 
