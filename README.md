@@ -4,8 +4,8 @@
 <!-- Introduction Section -->
 <p align="center">
   <h1 style="color: #0078d7;">
-    👋 Hi there, I'm <br>
-    Ashikur Rahman!
+    👋 Hi there, This is <br>
+    MD. ASHIKUR RAHMAN!
   </h1>
 </p>
 
@@ -23,7 +23,7 @@
 
 ### 💡 About Me
 
-Hi, I’m **Md. Ashikur Rahman**, a passionate Full Stack Web Developer. 
+Hi, This is **Md. Ashikur Rahman**, a passionate Full Stack Web Developer. 
 
 I specialize in designing, developing, and maintaining responsive web applications using **ASP.NET Core MVC, Web API, C#, SQL Server, Angular, and React**. 
 With hands-on experience troubleshooting, optimizing, and building systems independently and collaboratively, I am committed to delivering high-quality, user-friendly, and scalable web solutions. 
