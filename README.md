@@ -4,7 +4,7 @@
 <!-- Introduction Section -->
 <p align="center">
   <h1 style="color: #0078d7;">
-    👋 Hi there, This is <br>
+    👋 Hello, This is <br>
     MD. ASHIKUR RAHMAN!
   </h1>
 </p>
