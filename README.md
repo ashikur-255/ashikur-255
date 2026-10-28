@@ -23,12 +23,12 @@
 
 ### 💡 About Me
 
-Hi, I’m **Md. Ashikur Rahman**, a passionate Full Stack Web Developer. 
+Hi, I am **Md. Ashikur Rahman**, a passionate Full Stack Web Developer. 
 
 I specialize in designing, developing, and maintaining responsive web applications using **ASP.NET Core MVC, Web API, C#, SQL Server, Angular, and React**. 
 With hands-on experience troubleshooting, optimizing, and building systems independently and collaboratively, I am committed to delivering high-quality, user-friendly, and scalable web solutions. 
 
-I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and build something impactful together!
+I am open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and build something impactful together!
 
 ---
 
