@@ -40,15 +40,21 @@ I'm open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and
 
 ### ⚙️ Backend
 
-| C# | .NET | 
-|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=cs" height="40"> | <img src="https://skillicons.dev/icons?i=dotnet" height="40"> | 
+| C# | .NET | Node.js |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=cs" height="40"> | <img src="https://skillicons.dev/icons?i=dotnet" height="40"> | <img src="https://skillicons.dev/icons?i=nodejs" height="40"> |
 
 ### ⛁ Database & Tools
 
-| SQL Server | GitHub | 
-|:---:|:---:|
-| <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40"> | <img src="https://skillicons.dev/icons?i=github" height="40"> | 
+| SQL Server | GitHub | MongoDB |
+|:---:|:---:|:---:|
+| <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40"> | <img src="https://skillicons.dev/icons?i=github" height="40"> | <img src="https://skillicons.dev/icons?i=mongodb" height="40"> |
+
+### 📖 Currently Learning
+
+| Docker | AWS | GraphQL |
+|:---:|:---:|:---:|
+| <img src="https://skillicons.dev/icons?i=docker" height="40"> | <img src="https://skillicons.dev/icons?i=aws" height="40"> | <img src="https://skillicons.dev/icons?i=graphql" height="40"> |
 
 ---
 
