@@ -5,7 +5,7 @@
 <p align="center">
   <h1 style="color: #0078d7;">
     👋 Hi there, I'm <br>
-    Mahammad Shariar Alam Sarker!
+    Ashikur Rahman!
   </h1>
 </p>
 
