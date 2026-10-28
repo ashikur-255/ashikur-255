@@ -13,10 +13,10 @@
 <p align="center">
   Connect with Me:
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahammad-shariar-alam-sarker-istian)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%2310f.svg?style=for-the-badge&logo=&logoColor=white)](https://mahammad-shariar-alam-sarker-portfolio.vercel.app/)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801518788918-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801518788918)
-  [![Email](https://img.shields.io/badge/Email-mahammadshariaralam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahammadshariaralam@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ashikur-rahman-134300159)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%2310f.svg?style=for-the-badge&logo=&logoColor=white)](https://ashikurr-portfolio.netlify.app/)
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801518788918-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801708588330)
+  [![Email](https://img.shields.io/badge/Email-mahammadshariaralam@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ashikurr255@gmail.com)
 </p>
 
 ---
