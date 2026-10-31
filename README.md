@@ -1,74 +1,121 @@
-<!-- Top SVG Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=WELCOME%20TO%20MY%20GITHUB&fontSize=50&fontColor=ffffff" width="100%" />
 
-<!-- Introduction Section -->
-<p align="center">
-  <h1 style="color: #0078d7;">
-    👋 Hello, This is <br>
-    MD. ASHIKUR RAHMAN !
-  </h1>
+<!-- ==================== HEADER ==================== -->
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0078D7,50:0052CC,100:6A5ACD&text=MD.%20ASHIKUR%20RAHMAN&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=FULL%20STACK%20WEB%20DEVELOPER&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<h3>👋 Hello! Welcome to My GitHub Profile</h3>
+
+<p>
+  <b>Full Stack Web Developer | WordPress & Shopify Expert</b>
 </p>
 
-<!-- Contact & Links -->
-<p align="center">
-  Connect with Me:
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231572B6.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashikur-rahman-134300159)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-%2310f.svg?style=for-the-badge&logo=&logoColor=white)](https://ashikurr-portfolio.netlify.app/)
-  [![WhatsApp](https://img.shields.io/badge/WhatsApp-%2B8801708588330-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=8801708588330)
-  [![Email](https://img.shields.io/badge/Email-ashikurr255@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashikurr255@gmail.com)
+<p>
+  Passionate about building modern, responsive and scalable web applications.
+</p>
+
+<!-- CONTACT BADGES -->
+
+<a href="https://www.linkedin.com/in/ashikur-rahman-134300159">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://ashikurr-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://api.whatsapp.com/send?phone=8801708588330">
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+<a href="mailto:ashikurr255@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ==================== ABOUT ME ==================== -->
+
+## 💡 About Me
+
+Hi, I am **Md. Ashikur Rahman**, a passionate Full Stack Web Developer.
+
+I specialize in designing, developing, and maintaining responsive web applications using **ASP.NET Core MVC, Web API, C#, SQL Server, Angular, and React**.
+
+I also have hands-on experience with **WordPress and Shopify** for website development and customization.
+
+With hands-on experience troubleshooting, optimizing, and building systems independently and collaboratively, I am committed to delivering high-quality, user-friendly, and scalable web solutions.
+
+📍 Open to **remote, hybrid, or onsite roles in Dhaka**.
+
+---
+
+<!-- ==================== TECH STACK ==================== -->
+
+## 🛠️ Technical Skills
+
+### 🎨 Frontend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,angular,tailwind" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,express" />
+</p>
+
+### 🗄️ Database & Version Control
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=sqlserver,mongodb,mysql,github,git" />
+</p>
+
+### 🛒 CMS & E-commerce Platforms
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=wordpress,woocommerce,shopify" />
+</p>
+
+- **WordPress:** Website development, theme customization and responsive design.
+- **Shopify:** Store customization, Liquid development and theme customization.
+
+---
+
+<!-- ==================== CURRENTLY LEARNING ==================== -->
+
+## 📚 Currently Learning
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=docker,aws,graphql" />
 </p>
 
 ---
 
-### 💡 About Me
 
-Hi, I am **Md. Ashikur Rahman**, a passionate Full Stack Web Developer. 
+## 📊 GitHub Statistics
 
-I specialize in designing, developing, and maintaining responsive web applications using **ASP.NET Core MVC, Web API, C#, SQL Server, Angular, and React**. 
-With hands-on experience troubleshooting, optimizing, and building systems independently and collaboratively, I am committed to delivering high-quality, user-friendly, and scalable web solutions. 
+<div align="center">
 
-I am open to **remote, hybrid, or onsite roles in Dhaka** — let’s connect and build something impactful together!
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashikur-255&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
----
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur-255&theme=tokyonight&hide_border=true" />
 
-### 🖥️ Frontend
+<br/><br/>
 
-| HTML | CSS | Bootstrap | JavaScript | React | Angular |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=html" height="40"> | <img src="https://skillicons.dev/icons?i=css" height="40"> | <img src="https://skillicons.dev/icons?i=bootstrap" height="40"> | <img src="https://skillicons.dev/icons?i=js" height="40"> | <img src="https://skillicons.dev/icons?i=react" height="40"> | <img src="https://skillicons.dev/icons?i=angular" height="40"> |
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikur-255&layout=compact&theme=tokyonight&hide_border=true" />
 
-### ⚙️ Backend
-
-| C# | .NET | Node.js |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=cs" height="40"> | <img src="https://skillicons.dev/icons?i=dotnet" height="40"> | <img src="https://skillicons.dev/icons?i=nodejs" height="40"> |
-
-### ⛁ Database & Tools
-
-| SQL Server | MongoDB | GitHub |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" height="40"> | <img src="https://skillicons.dev/icons?i=mongodb" height="40"> | <img src="https://skillicons.dev/icons?i=github" height="40"> |
-
-### 📖 Currently Learning
-
-| Docker | AWS | GraphQL |
-|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=docker" height="40"> | <img src="https://skillicons.dev/icons?i=aws" height="40"> | <img src="https://skillicons.dev/icons?i=graphql" height="40"> |
+</div>
 
 ---
 
-### 📊 GitHub Stats
+## 👀 Profile Visitors
 
-<p align="center" style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashikur-255&show_icons=true&theme=dark" width="32%" height="120"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur-255&theme=dark" width="32%"  height="120" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikur-255&layout=compact&theme=dark" width="32%"  height="120"/>
-</p>
+<div align="center">
 
----
+<img src="https://komarev.com/ghpvc/?username=ashikur-255&label=PROFILE%20VIEWS&color=7AA2F7&style=for-the-badge" />
 
-### 👀 Profile Views
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashikur-255&color=blueviolet&style=flat-square" alt="Profile Views" />
-</p>
+</div>
+
+
