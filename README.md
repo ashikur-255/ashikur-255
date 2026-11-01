@@ -298,25 +298,12 @@ Performance, debugging and application optimization.
 
 <div align="center">
 
-# 📊 GitHub Analytics
+💻 Coding Consistency
 
 <br>
 
 <img
-width="49%"
-src="https://github-readme-stats.vercel.app/api?username=ashikur-255&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=07152C&title_color=38BDF8&icon_color=A78BFA&text_color=E2E8F0&ring_color=38BDF8"
-/>
-
-<img
-width="49%"
-src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur-255&hide_border=true&background=07152C&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=E2E8F0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=94A3B8"
-/>
-
-<br><br>
-
-<img
-width="43%"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashikur-255&layout=compact&langs_count=8&hide_border=true&bg_color=07152C&title_color=38BDF8&text_color=E2E8F0"
+src="https://github-readme-streak-stats.herokuapp.com/?user=ashikur-255&hide_border=true&background=020617&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B"
 />
 
 </div>
@@ -375,33 +362,7 @@ Stable systems with production-ready practices.
 
 ---
 
-<!-- ========================================================= -->
-<!--                     CURRENT FOCUS                          -->
-<!-- ========================================================= -->
 
-<div align="center">
-
-# 🔥 Current Focus
-
-</div>
-
-```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🚀 Building modern full-stack applications               │
-│                                                             │
-│   ⚙️  Developing ASP.NET Core Web APIs                     │
-│                                                             │
-│   ⚛️  Creating React & Angular interfaces                  │
-│                                                             │
-│   🛒 Developing and customizing Shopify stores             │
-│                                                             │
-│   📝 Building & customizing WordPress websites             │
-│                                                             │
-│   📚 Continuously learning modern technologies              │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
 
 ---
 
