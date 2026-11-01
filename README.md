@@ -21,31 +21,6 @@
   <img src="https://img.shields.io/badge/🚀_Problem-Solver-8B5CF6?style=for-the-badge&labelColor=020617" />
 </p>
 
-<br>
-
-<!-- ==================== CONTACT ==================== -->
-
-<a href="https://www.linkedin.com/in/ashikur-rahman-134300159">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://ashikurr-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
-</a>
-
-<a href="https://api.whatsapp.com/send?phone=8801708588330">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<a href="mailto:ashikurr255@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ashikur-255&label=PROFILE%20VIEWS&color=0EA5E9&style=for-the-badge" />
-
-</div>
 
 <br>
 
@@ -380,20 +355,22 @@ I'm always open to discussing **web development projects, collaborations, freela
 
 <br>
 
+<!-- ==================== CONTACT ==================== -->
+
 <a href="https://www.linkedin.com/in/ashikur-rahman-134300159">
-<img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://ashikurr-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Explore_My_Portfolio-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
 <a href="https://api.whatsapp.com/send?phone=8801708588330">
-<img src="https://img.shields.io/badge/Message_Me_on_WhatsApp-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<img src="https://img.shields.io/badge/WhatsApp-Chat-22C55E?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
 <a href="mailto:ashikurr255@gmail.com">
-<img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
